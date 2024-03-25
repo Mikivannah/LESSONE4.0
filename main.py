@@ -1,6 +1,6 @@
-a = 7 #создание цикла
-b = 9
-
+for i in range(8):
+    print("слова")
+a, b = 9,8
 if a > b:
     print("a больше b")
 elif b > a:
